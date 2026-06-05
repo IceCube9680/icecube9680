@@ -34,14 +34,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=icecube9680&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -54,8 +46,8 @@
 
 <!-- Replace `repo1`, `repo2`, etc. with your actual repository names -->
 <p align="center">
-  <a href="https://github.com/icecube9680/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=icecube9680&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=79FFE1" width="45%" />
+  <a href="https://github.com/icecube9680/SpotiVerse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=icecube9680&repo=SpotiVerse&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=79FFE1" width="45%" />
   </a>
   <a href="https://github.com/icecube9680/REPO_NAME_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=icecube9680&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=79FFE1" width="45%" />
