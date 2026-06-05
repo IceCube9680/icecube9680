@@ -49,21 +49,19 @@
   <a href="https://github.com/icecube9680/SpotiVerse">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=icecube9680&repo=SpotiVerse&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=79FFE1" width="45%" />
   </a>
-  <a href="https://github.com/icecube9680/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=icecube9680&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=79FFE1" width="45%" />
+  <a href="https://github.com/icecube9680/Telegram-Self-Destructing-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=icecube9680&repo=Telegram-Self-Destructing-Bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=79FFE1" width="45%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/icecube9680/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=icecube9680&repo=REPO_NAME_3&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=79FFE1" width="45%" />
+  <a href="https://github.com/icecube9680/Save-Restricted-Content">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=icecube9680&repo=Save-Restricted-Content&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=79FFE1" width="45%" />
   </a>
   <a href="https://github.com/icecube9680/REPO_NAME_4">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=icecube9680&repo=REPO_NAME_4&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=79FFE1" width="45%" />
   </a>
 </p>
-
-> 💡 *Tip: Replace `REPO_NAME_1` … `REPO_NAME_4` with your actual repository slugs. You can add more rows as needed.*
 
 ---
 
