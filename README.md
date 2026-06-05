@@ -83,19 +83,3 @@
 </p>
 
 ---
-
-<details>
-  <summary>📌 <strong>How to use this template</strong> (click to expand)</summary>
-
-  1. **Copy** the entire markdown block above.
-  2. **Replace** every occurrence of:
-     - `icecube9680` – your GitHub username.
-     - `IceCube` – your display name.
-     - `YOUR_EMAIL`, `YOUR_LINKEDIN`, `YOUR_TWITTER`, `YOUR_PORTFOLIO` – your social/contact links.
-     - `REPO_NAME_1` … `REPO_NAME_4` – names of repositories you want to feature.
-  3. **Paste** into your `README.md` on GitHub (inside your profile repository: `icecube9680/icecube9680`).
-  4. **Customize** themes and colors by changing the `theme` parameter in any URL (e.g., `radical`, `gruvbox`, `tokyonight`, `onedark`).  
-     See [github-readme-stats themes](https://github.com/anuraghazra/github-readme-stats#themes) for more options.
-  5. **Optional** – Add more sections, badges, or a “support me” button.
-
-</details>
